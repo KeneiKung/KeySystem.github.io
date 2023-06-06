@@ -39,7 +39,7 @@ function getKey() {
       *{margin: 0;padding: 0;box-sizing: border-box;font-family: Ubuntu, 'Segoe UI'}html,body{height: 100%;background: #121212}.container{height: 100%;display: flex;align-items: center;justify-content: center;flex-direction: column}.card{width: 460px;background: #1E1E1E;border-radius: 3px;border: none;padding: 24px;margin: 8px 0}.card-title{text-align: center;font-size: 20px;font-weight: 500;display: block;margin-bottom: 15px;color: #BB86FC}.card-description{text-align: center;font-size: 14px;color: #E1E1E1;display: block}.card-key{width: 100%;height: 35px;border-radius: 4px;border: none;padding: 0 10px 0 10px;overflow: hidden;color: #969696;background: #1A1A1A;margin-bottom: 10px}*:focus{outline: none}.key-container{position: relative;margin-bottom: 10px}.card-button{height: 30px;width: 100%;padding: 0 14px;background: #C38FFF;color: #1E1E1E;border-radius: 4px;border: none;font-weight: 500;font-size: medium;box-shadow: 0 2px 3px -1px rgba(0, 0, 0, .14)}
     </style>
 
-    <title>Simple Key System</title>
+    <title>MakimaHuB Key System</title>
 </head>
 <body>
     <div class="container">
